@@ -50,7 +50,7 @@ const Navbar = () => {
           <p> CONTACT </p>
           <hr className="w-2/4 border-none h-[1.5px] bg-gray-700 hidden" />
         </NavLink>
-        <a href="https://admin-panel-ten-azure.vercel.app/">
+        <a href="https://admin-panel-03.vercel.app">
           <button className="px-2 py-2 border rounded-lg text-center hover:bg-black hover:text-white transition-all duration-300 cursor-pointer">
             Admin Panel
           </button>
